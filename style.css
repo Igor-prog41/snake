@@ -1,0 +1,39 @@
+﻿.field{
+    width: 600px;
+    height: 600px;
+    background-color: yellow;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ff{
+   
+    width: 26px;
+    height: 26px;
+    border: solid 2px green;
+    background-color: greenyellow;
+}
+ 
+.bac{
+       
+    width: 26px;
+    height: 26px;
+    border: solid 2px yellowgreen;
+    background-color: yellow;
+}
+
+.snake{
+       
+    width: 26px;
+    height: 26px;
+    border: solid 2px black;
+    background-color: red;
+}
+
+.snakeHead{
+       
+    width: 26px;
+    height: 26px;
+    border: solid 2px black;
+    background-color: rgb(194, 4, 4);
+}
